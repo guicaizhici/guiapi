@@ -79,7 +79,7 @@
 
 ## 后端
 
-按照applicationg.yml配置自己的环境即可， 执行sql目录下ddl.sql 
+按照applicationg.yml配置自己的环境即可， 执行sql目录下ddl.sql文件
 
 ## 前端
 
